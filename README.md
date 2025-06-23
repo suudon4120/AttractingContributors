@@ -10,3 +10,4 @@ There are many AI models, but which one you think it best?
 - LLama-3
 - GPT-o3
 - DeepSeek-R1
+- Gemini 2.5 Pro
