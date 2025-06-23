@@ -7,4 +7,5 @@ There are many AI models, but which one you think it best?
 - GPT-4o
 - Gemini 2.5 Flash
 - LLama-3
-- Claude Opus 4
+- LLama-3
+- GPT-o3
