@@ -10,3 +10,4 @@
 - Transformers
 - THE IDOLM@STER MOVIE: Beyond the Brilliant Future!
 - Harry Potter
+- pirate of the carribean
