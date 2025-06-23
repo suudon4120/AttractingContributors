@@ -13,3 +13,4 @@
 - Grab
 - SpaceX
 - VOC
+- Morgan Stanley
