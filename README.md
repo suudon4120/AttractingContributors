@@ -9,3 +9,4 @@ There are many AI models, but which one you think it best?
 - LLama-3
 - LLama-3
 - GPT-o3
+- GPT-4o
