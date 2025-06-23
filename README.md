@@ -8,8 +8,9 @@
 - White
 - Black
 - Black and gold (two-tone)
+- blonde hair
 
 
 ### Good 
-- dark brown
+-
 
