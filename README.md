@@ -4,6 +4,7 @@
 - Saizeriya
 # List of place
 - Ano Ramen Seisakujo
+- KFC
 - Saizeriya
 - Gifu-Tanmen
 - Gusto
