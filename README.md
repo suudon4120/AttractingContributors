@@ -4,6 +4,7 @@
 - Saizeriya
 # List of place
 - Ano Ramen Seisakujo
+- Saizeriya
 - Gifu-Tanmen
 - Gusto
 - Sushiro
