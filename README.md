@@ -7,6 +7,7 @@
 - Gold
 - White
 - Black
+- Blue gray
 
 
 ### Good 
