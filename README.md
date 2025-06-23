@@ -5,3 +5,11 @@
 # List of place
 - Ano Ramen Seisakujo
 - Torikaji ippai
+- KFC
+- Saizeriya
+- Gifu-Tanmen
+- Gusto
+- Sushiro
+- Sawayaka (hamburger restaurant in Shizuoka)
+-
+
