@@ -6,6 +6,7 @@
 - penguin
 - polar bear
 - panda
+- Cats
 - shiba inu
 - Shiba
 - whale
