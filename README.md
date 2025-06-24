@@ -7,3 +7,11 @@
 - polar bear
 - panda
 - elephant
+- Bernese Mountain Dog
+- lion
+- elephant
+- swallow
+- Cats
+- shiba inu
+- Shiba
+- whale
