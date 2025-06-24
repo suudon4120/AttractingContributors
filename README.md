@@ -7,3 +7,9 @@
 - polar bear
 - panda
 - lion
+- elephant
+- swallow
+- Cats
+- shiba inu
+- Shiba
+- whale
