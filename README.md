@@ -9,6 +9,7 @@
 - Machu Picchu
 - New York City
 - Reykjavik
+- Hawaii
 - Nagoya
 - Atlantis
 - Poland
