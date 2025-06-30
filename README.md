@@ -15,3 +15,4 @@
 - shiba inu
 - Shiba
 - whale
+- Rabbit
