@@ -12,3 +12,4 @@
 - Atlantis
 - Poland
 - Nara Park
+- Gifu
