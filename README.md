@@ -14,3 +14,9 @@
 - SpaceX
 - VOC
 - Facebook
+- Morgan Stanley
+- Marukome Miso
+- LINE
+- Nissan
+- LY Corporation
+- Sony
