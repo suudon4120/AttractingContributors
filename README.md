@@ -14,3 +14,7 @@
 - SpaceX
 - VOC
 - Marukome Miso
+- LINE
+- Nissan
+- LY Corporation
+- Sony
