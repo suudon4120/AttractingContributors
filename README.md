@@ -13,6 +13,7 @@
 - Grab
 - SpaceX
 - VOC
+- Morgan Stanley
 - Marukome Miso
 - LINE
 - Nissan
