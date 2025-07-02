@@ -20,3 +20,4 @@
 - Nissan
 - LY Corporation
 - Sony
+- Sanrio
