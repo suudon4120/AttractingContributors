@@ -13,5 +13,6 @@
 - Grab
 - SpaceX
 - VOC
+- Nissan
 - LY Corporation
 - Sony
